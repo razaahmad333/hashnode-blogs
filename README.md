@@ -10,3 +10,4 @@ These are all the blogs in my hashnode profile
 - ## [The way I learned programming 🧑‍💻](https://razaahmad333.github.io/hashnode-blogs/clc3erszm0g9ayfnv5sibdjze)
 - ## [The story of the Internet and HTML🌐](https://razaahmad333.github.io/hashnode-blogs/clc69ngvc0xgnyfnvepso3v5w)
 - ## [How to HTML 🤔](https://razaahmad333.github.io/hashnode-blogs/clc94j80e00xe32nvalu54ifg)
+- ## [Texts, headings and paragraphs in HTML 📜](https://razaahmad333.github.io/hashnode-blogs/clcdeuqai08zeo9nv73rad9lq)
