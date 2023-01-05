@@ -11,3 +11,4 @@ These are all the blogs in my hashnode profile
 - ## [The story of the Internet and HTML🌐](https://razaahmad333.github.io/hashnode-blogs/clc69ngvc0xgnyfnvepso3v5w)
 - ## [How to HTML 🤔](https://razaahmad333.github.io/hashnode-blogs/clc94j80e00xe32nvalu54ifg)
 - ## [Texts, headings and paragraphs in HTML 📜](https://razaahmad333.github.io/hashnode-blogs/clcdeuqai08zeo9nv73rad9lq)
+- ## [Lists in HTML 🍡](https://razaahmad333.github.io/hashnode-blogs/clcj65emx000008mh7j4a3y1u)
