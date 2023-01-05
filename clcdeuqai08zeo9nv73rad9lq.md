@@ -27,7 +27,7 @@ There is a series of heading tags ( h1 to h6 ) to show headings in different siz
 
 **The Output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671726508720/0f4ea498-efbc-4121-ba72-45689d54d45d.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671726508720/0f4ea498-efbc-4121-ba72-45689d54d45d.png)
 
 You can also change the boldness and hugeness of these headings using CSS.
 
@@ -61,7 +61,7 @@ Simply add paragraphs using `<p> </p>` tag
 
 **The Output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671727232382/a22d607c-9264-44b6-aec1-a312794efad3.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671727232382/a22d607c-9264-44b6-aec1-a312794efad3.png)
 
 [Read more about paragraph tags - Official Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 
@@ -107,7 +107,7 @@ Here are some tags you can use to give style to your text without adding CSS sty
 
 **The output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672037645783/d31ffb77-cf49-46b2-a753-4ef10e568992.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672037645783/d31ffb77-cf49-46b2-a753-4ef10e568992.png)
 
 I have used `<br>` tags in between them to add line breaks.
 
@@ -161,7 +161,7 @@ We cannot simply add spaces in our code without using `&nbsp;` or `&#160` .
 
 **Here are some entities with their name and number:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672039197208/b62df98b-f4d2-46b4-bce5-27d3687824e6.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672039197208/b62df98b-f4d2-46b4-bce5-27d3687824e6.png)
 
 [checkout more about entities at w3Schools](https://www.w3schools.com/html/html_entities.asp).
 
@@ -209,7 +209,7 @@ We cannot simply add spaces in our code without using `&nbsp;` or `&#160` .
 
 **The output would be:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672041163597/e7bb50b2-2eba-4f88-ab13-5ba27ece7700.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672041163597/e7bb50b2-2eba-4f88-ab13-5ba27ece7700.png)
 
 ---
 

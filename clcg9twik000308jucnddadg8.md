@@ -43,7 +43,7 @@ I have created a file `index.html` and the code to display an image is:
 
 **My directory structure is:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672720730300/54ffeaa5-53df-43d3-885d-cd28f1c954fb.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672720730300/54ffeaa5-53df-43d3-885d-cd28f1c954fb.png)
 
 ### What are these paths?
 
@@ -78,7 +78,7 @@ The above code adds an element to the webpage with controls.
 
 **Something like this:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672641006586/1a16213a-8f47-4b81-83d6-86a7f1029ee4.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672641006586/1a16213a-8f47-4b81-83d6-86a7f1029ee4.png)
 
 In `src` ( source ) attribute takes the path of the source of audio files. I have two audio files, first one exists on my computer and the second is coming from an external source using a URL.
 
