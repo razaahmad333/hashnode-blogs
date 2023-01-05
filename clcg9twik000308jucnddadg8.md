@@ -43,7 +43,7 @@ I have created a file `index.html` and the code to display an image is:
 
 **My directory structure is:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672720730300/54ffeaa5-53df-43d3-885d-cd28f1c954fb.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672720730300/54ffeaa5-53df-43d3-885d-cd28f1c954fb.png align="left")
 
 ### What are these paths?
 
@@ -78,7 +78,7 @@ The above code adds an element to the webpage with controls.
 
 **Something like this:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672641006586/1a16213a-8f47-4b81-83d6-86a7f1029ee4.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672641006586/1a16213a-8f47-4b81-83d6-86a7f1029ee4.png align="left")
 
 In `src` ( source ) attribute takes the path of the source of audio files. I have two audio files, first one exists on my computer and the second is coming from an external source using a URL.
 
@@ -205,4 +205,4 @@ Here are some **easy** and **worth** practicing exercises on W3Schools.
 
 [**Live Preview**](https://webd-essentials.github.io/HTML5/images-audio-and-video-etc/) of the codes in this blog.
 
-In the next blog, I will be writing about Lists in HTML.
+In the next blog, I will be writing about [Lists in HTML](https://webdessentials.hashnode.dev/lists-in-html).
