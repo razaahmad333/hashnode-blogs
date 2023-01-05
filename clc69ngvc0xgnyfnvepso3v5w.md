@@ -78,4 +78,4 @@ It can be considered a collection of web pages.
 * [Click Here](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf) to know, How the internet was invented
     
 
-> ⚡ In the next blog, we will be learning about how to create your first HTML file or first website.
+> ⚡ In the next blog, we will be learning about [how to create](https://webdessentials.hashnode.dev/how-to-html) your first HTML file or first website.
