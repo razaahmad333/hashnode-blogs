@@ -40,7 +40,7 @@ In this code, I have used a header tag `<h2> </h2>` to give this list a heading 
 
 **The Output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672125288509/6da74fcc-d55d-4318-b336-f094e2f5e8fa.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672125288509/6da74fcc-d55d-4318-b336-f094e2f5e8fa.png align="left")
 
 **You can change the numbering type of the ordered list**. For example:
 
@@ -65,7 +65,7 @@ In this code, I have used a header tag `<h2> </h2>` to give this list a heading 
 
 **The Output**: now, the numbering is in roman numbers
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672126867807/d581e78e-e419-422d-bdac-0d83cf414c5d.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672126867807/d581e78e-e419-422d-bdac-0d83cf414c5d.png align="left")
 
 Various types of numbering for ordered lists are:
 
@@ -115,7 +115,7 @@ Various types of numbering for ordered lists are:
 
 **The output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672129047320/03e29d49-4c10-4af3-811f-7d044f56fca9.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672129047320/03e29d49-4c10-4af3-811f-7d044f56fca9.png align="left")
 
 **Numbering types in the unordered list are:**
 
@@ -153,7 +153,7 @@ Various types of numbering for ordered lists are:
 
 **The output would be :**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672129745726/32ddd197-6f5b-4a33-b486-b0af22746ec5.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672129745726/32ddd197-6f5b-4a33-b486-b0af22746ec5.png align="left")
 
 [Checkout the official docs for more information on the unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
@@ -267,7 +267,7 @@ You can put one list into another.
 
 **The output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672132873820/61a9ad02-e6ca-438e-a873-ebee22cdb015.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672132873820/61a9ad02-e6ca-438e-a873-ebee22cdb015.png align="center")
 
 ---
 
@@ -275,7 +275,7 @@ You can put one list into another.
 
 If you have a term and its description and you want to display them something like this without doing CSS styling.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672379716946/c577441b-1727-4dd6-836c-7185f96d2aa0.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672379716946/c577441b-1727-4dd6-836c-7185f96d2aa0.png align="left")
 
 Use `<dl> </dl>` tag**,** the code for the above is:
 
