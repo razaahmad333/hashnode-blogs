@@ -26,7 +26,7 @@ To start writing an HTML file, you will have to create a file with an extension 
 
 ### The code &lt;/&gt;
 
-```html
+```xml
 <!DOCTYPE html>
 <html lang="en">
 
@@ -51,11 +51,11 @@ To start writing an HTML file, you will have to create a file with an extension 
 
 ### Open that file in the browser 🌐
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671537756793/dWblVWqG_.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671537756793/dWblVWqG_.png align="center")
 
 ### You will get the output like this 😊
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671537656279/ah3PflKdf.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671537656279/ah3PflKdf.png align="right")
 
 ### The breakdown of code 🧭
 
@@ -69,7 +69,7 @@ We have more than 100 HTML tags, used for various purposes.
 
 we will be learning about these tags in upcoming blogs.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671540405242/jdsUEXVnF.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671540405242/jdsUEXVnF.png align="center")
 
 Most of the tags have a closing pair and other don't.
 
@@ -86,4 +86,4 @@ Most of the tags have a closing pair and other don't.
 * [Visit](https://webd-essentials.github.io/HTML5/startingTemplate/) the live preview of the code used in this blog.
     
 
-In the next blog, we will learn about writing texts, headings, and paragraphs inside the body tag.
+In the next blog, we will learn about [writing texts, headings, and paragraphs inside the body tag](https://webdessentials.hashnode.dev/texts-headings-and-paragraphs-in-html).
