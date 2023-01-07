@@ -56,7 +56,7 @@ A table can have `head` `body` and `foot` .
 
 **The output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672806017326/8c7ba1dd-c4b8-4999-b590-0fca9d6edbb7.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672806017326/8c7ba1dd-c4b8-4999-b590-0fca9d6edbb7.png)
 
 ### The breakdown of the above code 🔯
 
@@ -101,7 +101,7 @@ A cell can be created using
     
     **The output:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672890724977/1f5178e4-37dc-4178-896e-fe9b9d7cdfba.png align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672890724977/1f5178e4-37dc-4178-896e-fe9b9d7cdfba.png)
     
 
 ---
@@ -110,7 +110,7 @@ A cell can be created using
 
 They are the attributes given to cells `<td> </td>` and `<th> </th>` .
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673084920538/8b6675fc-738f-42fa-b5b2-0e7f603f9268.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673084920538/8b6675fc-738f-42fa-b5b2-0e7f603f9268.png)
 
 * **Colspan** expands a particular cell by a given unit horizontally. It shifts the next cell in front of it. ( So, in this code I have not added any cell next to it ).
     
