@@ -15,3 +15,4 @@ These are all the blogs in my hashnode profile
 - ## [Images, audio, video and iframe in HTML 🎬](https://razaahmad333.github.io/hashnode-blogs/clcg9twik000308jucnddadg8)
 - ## [Lists in HTML 🍡](https://razaahmad333.github.io/hashnode-blogs/clcj65emx000008mh7j4a3y1u)
 - ## [Tables in HTML 🧱](https://razaahmad333.github.io/hashnode-blogs/clclzhvz60cge8jnvbz9pg7il)
+- ## [Links and Navigation in HTML  🤝](https://razaahmad333.github.io/hashnode-blogs/clcq5552t000208jmh4fv3wka)
