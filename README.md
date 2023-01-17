@@ -17,3 +17,4 @@ These are all the blogs in my hashnode profile
 - ## [Tables in HTML 🧱](https://razaahmad333.github.io/hashnode-blogs/clclzhvz60cge8jnvbz9pg7il)
 - ## [Links and Navigation in HTML 🤝](https://razaahmad333.github.io/hashnode-blogs/clcq5552t000208jmh4fv3wka)
 - ## [Forms and Input Elements in HTML 📄](https://razaahmad333.github.io/hashnode-blogs/clcun63yv000008l82lxgbd1v)
+- ## [Creating and deploying a portfolio website using HTML 🎉](https://razaahmad333.github.io/hashnode-blogs/cld086kwh000108kueyua3cfn)
