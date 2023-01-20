@@ -56,7 +56,7 @@ A table can have `head` `body` and `foot` .
 
 **The output:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672806017326/8c7ba1dd-c4b8-4999-b590-0fca9d6edbb7.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672806017326/8c7ba1dd-c4b8-4999-b590-0fca9d6edbb7.png align="left")
 
 ### The breakdown of the above code 🔯
 
@@ -101,7 +101,7 @@ A cell can be created using
     
     **The output:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672890724977/1f5178e4-37dc-4178-896e-fe9b9d7cdfba.png)
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672890724977/1f5178e4-37dc-4178-896e-fe9b9d7cdfba.png align="left")
     
 
 ---
@@ -110,7 +110,7 @@ A cell can be created using
 
 They are the attributes given to cells `<td> </td>` and `<th> </th>` .
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673084920538/8b6675fc-738f-42fa-b5b2-0e7f603f9268.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673084920538/8b6675fc-738f-42fa-b5b2-0e7f603f9268.png align="center")
 
 * **Colspan** expands a particular cell by a given unit horizontally. It shifts the next cell in front of it. ( So, in this code I have not added any cell next to it ).
     
@@ -229,4 +229,4 @@ Here are some **easy and worth practicing** exercises on w3Schools.
 * [**Live Preview**](https://webd-essentials.github.io/HTML5/tables/) of the codes in this blog.
     
 
-In the next blog, I will be writing about anchor tags `<a href="https://google.com"> Click here </a>` .
+In the next blog, I will be writing about [anchor tags `<a href="https://google.com"> Click here </a>`](https://webdessentials.hashnode.dev/links-and-navigation-in-html) .
