@@ -8,11 +8,11 @@ For example, it can transform
 
 **This ugly-looking webpage:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674113700404/7aad5727-bd5e-4822-9484-767ee275eded.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674113700404/7aad5727-bd5e-4822-9484-767ee275eded.png )
 
 **Into this:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674113780117/2baa0c32-e794-4533-9eb5-6560c3fb0b07.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674113780117/2baa0c32-e794-4533-9eb5-6560c3fb0b07.png )
 
 ---
 
@@ -62,7 +62,7 @@ For now, you will see no effect of style.css on the webpage, because they are no
 
 You will get to see the webpage ( if you open `index.html` in a browser ) like this:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674191992258/00247e95-e89d-4afd-ab9b-d72abd19dec7.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674191992258/00247e95-e89d-4afd-ab9b-d72abd19dec7.png )
 
 ---
 
@@ -99,9 +99,9 @@ Now, after putting `link` your `index.html` file will look like this:
 
 And your webpage will look like this:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674192385100/024b6341-ddcf-4196-8800-7874b7eb8a20.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674192385100/024b6341-ddcf-4196-8800-7874b7eb8a20.png )
 
-![Wander Over Yonder Congrats GIF - Wander Over Yonder Congrats Congratulations GIFs](https://media.tenor.com/h9zIaweIRxwAAAAM/wander-over-yonder-congrats.gif align="center")
+![Wander Over Yonder Congrats GIF - Wander Over Yonder Congrats Congratulations GIFs](https://media.tenor.com/h9zIaweIRxwAAAAM/wander-over-yonder-congrats.gif )
 
 Congratulations 🎉, you just wrote a stylesheet and connected it to an HTML file.
 
@@ -171,7 +171,7 @@ It becomes hard when complexity arises.
 
 Someone on the internet has created the Mona Lisa painting with pure CSS.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674195722926/62eae3ae-57b9-48c2-aae9-f7df1d7e1dbd.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674195722926/62eae3ae-57b9-48c2-aae9-f7df1d7e1dbd.png )
 
 🔗 [Check out the CSS code for Mona Lisa Painting](https://css-art.com/mona-lisa/source.html)
 

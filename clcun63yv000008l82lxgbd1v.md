@@ -4,7 +4,7 @@ In real life, forms are used to take information from the user/person. For examp
 
 **This is what form on a paper looks like:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673429223460/c7d1748a-77e1-44de-b042-bc20c58d4670.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673429223460/c7d1748a-77e1-44de-b042-bc20c58d4670.png )
 
 Here, you will notice **blanks** that need to be filled with appropriate information.
 
@@ -18,7 +18,7 @@ So, for these **blanks**, there are **input elements** in HTML.
 
 **Here is how a form in HTML looks like**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673430890373/fe81155a-32e9-4ad0-90ce-f1761b1a581c.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673430890373/fe81155a-32e9-4ad0-90ce-f1761b1a581c.png )
 
 ### Various Input elements - Explained ⚙️
 
@@ -106,7 +106,7 @@ Information can be of various types. For example text, number, email address, pa
     
     **The preview:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433638028/23be0ebc-55ab-4d13-9bd5-cab5e03dda93.png align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433638028/23be0ebc-55ab-4d13-9bd5-cab5e03dda93.png )
     
     ---
     
@@ -132,7 +132,7 @@ Information can be of various types. For example text, number, email address, pa
     
     **The preview:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433729282/d84a5a18-ec71-456e-b95f-62cfc5fd6f44.png align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433729282/d84a5a18-ec71-456e-b95f-62cfc5fd6f44.png )
     
     > ⚡ All these input elements are connected to each other through `name` attribute. That's why you will notice them working as a system.
     
@@ -157,7 +157,7 @@ Information can be of various types. For example text, number, email address, pa
     
     **The preview:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433790385/672c8da8-65e3-477c-8c1d-e1f67d90e81f.png align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433790385/672c8da8-65e3-477c-8c1d-e1f67d90e81f.png )
     
     ---
     
@@ -205,7 +205,7 @@ We need to wrap all the input elements inside `<form> </form>` tag like this
 
 **The preview:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433848889/18097306-1a98-4650-be3b-5fdeb99be1ec.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673433848889/18097306-1a98-4650-be3b-5fdeb99be1ec.png )
 
 **Attributes explained:**
 

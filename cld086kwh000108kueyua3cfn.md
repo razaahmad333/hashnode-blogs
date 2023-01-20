@@ -39,7 +39,7 @@ You are ready to write HTML codes.
 
 **This is what a typical portfolio website looks like.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673784978093/eb00ee27-fac5-4921-b757-e08405caf482.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673784978093/eb00ee27-fac5-4921-b757-e08405caf482.png )
 
 **A short description of this website:**
 
@@ -117,7 +117,7 @@ And I have used an entity `&emsp;` to give tab spacing.
 
 Then there are four links, their `href` attributes contains the `id` of other sections of this page.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673796488505/73c2cf3e-a6bd-4e36-a0c7-1c38f3383dee.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673796488505/73c2cf3e-a6bd-4e36-a0c7-1c38f3383dee.png )
 
 ---
 
@@ -167,7 +167,7 @@ For the description, I have used `<p> </p>` tag and inside that, I have used `<b
 
 For adding social media handles, I have used `<a> </a>` anchor tag inside `<button> </button>` tag. You will notice `target="_blank"` attribute inside anchor tag, it opens the link in a new tab.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673798007041/8b922036-d25c-4ceb-9319-982bb1e6ae41.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673798007041/8b922036-d25c-4ceb-9319-982bb1e6ae41.png )
 
 ---
 
@@ -226,7 +226,7 @@ After that, I used `<h4> </h4>` tag, to show the title of that book and then use
 
 **The preview of the above code:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673799208168/a8c00bef-404c-4711-996f-5f16e2ec7370.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673799208168/a8c00bef-404c-4711-996f-5f16e2ec7370.png )
 
 ---
 
@@ -322,7 +322,7 @@ I have used `<ul> </ul>` tag to show the list of techs used.
 
 **The preview of the above code:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673801264730/ee992b82-2eab-449c-8e67-1ddbf88c3871.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673801264730/ee992b82-2eab-449c-8e67-1ddbf88c3871.png )
 
 ---
 
@@ -365,7 +365,7 @@ For send button, I have used `<input>` tag with `type="submit"` , this 'submit' 
 
 I have used `<label> </label>` tags to give labels to the input elements.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673801282754/31c10dad-fe80-472e-aab4-aaf6d3d28e8a.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673801282754/31c10dad-fe80-472e-aab4-aaf6d3d28e8a.png )
 
 ---
 
@@ -374,17 +374,17 @@ I have used `<label> </label>` tags to give labels to the input elements.
 * Create an account on [Netlify](https://www.netlify.com/).
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673802128680/0d9c9c94-73f4-414f-803b-c8b811680f3e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673802128680/0d9c9c94-73f4-414f-803b-c8b811680f3e.png )
 
 * On successful login, you will see this page
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673802371024/54bb535a-cb3e-4605-abf0-fa76695b5d57.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673802371024/54bb535a-cb3e-4605-abf0-fa76695b5d57.png )
 
 * Head over to `Sites` and scroll the page and you will something like this.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673802423070/d9676040-c046-44f2-a3b8-fc0fa25b7d1c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673802423070/d9676040-c046-44f2-a3b8-fc0fa25b7d1c.png )
 
 * Drag-drop your website folder or click on browse to upload to deploy your website.
     

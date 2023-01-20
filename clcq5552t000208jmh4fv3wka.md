@@ -4,7 +4,7 @@ You must have seen links, mostly blue color underlined texts starting with `http
 
 **A typical example of links could be search results on Google's webpage:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673001785160/bdf00a5b-58d0-4ef3-a0bf-8efdcdafc036.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673001785160/bdf00a5b-58d0-4ef3-a0bf-8efdcdafc036.png )
 
 ### How to put a link on your webpage? 🤔
 
@@ -22,7 +22,7 @@ You can use an anchor tag for that `<a> </a>` .
 
 **The output of the above code:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673002494655/6d00d72b-3108-4fd4-ae12-d931cb9fa904.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673002494655/6d00d72b-3108-4fd4-ae12-d931cb9fa904.png )
 
 **The breakdown of the code:**
 
@@ -54,7 +54,7 @@ For example: If I have two pages `index.html` and `stories.html` and I want to c
 
 **A visual representation:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673074669685/a2195695-b72e-45d9-9887-c65e497caa3a.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673074669685/a2195695-b72e-45d9-9887-c65e497caa3a.png )
 
 So in `index.html` , I will use an anchor tag and pass the path of `stories` page as `./stories.html` , because both the files are in the same directory.
 
@@ -86,7 +86,7 @@ and in `vehicles/bikes.html` I would write the path of `index` page as
 
 **My directory structure looks like this. The folder for my website is** `links-and-navigation` .
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673074198755/36cb9f6a-9598-4dc4-83b9-e30c4091d3d1.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673074198755/36cb9f6a-9598-4dc4-83b9-e30c4091d3d1.png )
 
 ### An example to summarize the above concept 🍭
 
@@ -116,7 +116,7 @@ and in `vehicles/bikes.html` I would write the path of `index` page as
     
     **The preview:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064465444/8dca698c-0d53-4da5-839c-109d3e7bbd62.png align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064465444/8dca698c-0d53-4da5-839c-109d3e7bbd62.png )
     
 * `projects.html`
     
@@ -141,7 +141,7 @@ and in `vehicles/bikes.html` I would write the path of `index` page as
     
     **The preview:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064556393/3380ddac-6c9a-4e69-8bae-c7d8126aa4d9.png align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064556393/3380ddac-6c9a-4e69-8bae-c7d8126aa4d9.png )
     
 * `about.html`
     
@@ -171,7 +171,7 @@ and in `vehicles/bikes.html` I would write the path of `index` page as
     
     **The preview:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064622014/7f3e41ae-0013-4b3d-94d9-92ff10933a1b.png align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064622014/7f3e41ae-0013-4b3d-94d9-92ff10933a1b.png )
     
 * finally in `index.html` ,
     
@@ -215,7 +215,7 @@ and in `vehicles/bikes.html` I would write the path of `index` page as
     
     **The preview:**
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064734733/498ff69c-f727-4c2e-914d-9fccb1a4c9ad.png align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064734733/498ff69c-f727-4c2e-914d-9fccb1a4c9ad.png )
     
     [<mark>Click here for the live preview of the above code</mark>](https://webd-essentials.github.io/HTML5/links-and-navigation)
     

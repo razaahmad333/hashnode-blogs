@@ -9,6 +9,7 @@ These are all the blogs in my hashnode profile
 - ## [Let's use a js package 🎁](https://razaahmad333.github.io/hashnode-blogs/cl7gjxkxo0f241unv95mzgy7k)
 - ## [Open Source & Me](https://razaahmad333.github.io/hashnode-blogs/cl7vk2qw105c6x9nv4bou87jr)
 - ## [The way I learned programming 🧑‍💻](https://razaahmad333.github.io/hashnode-blogs/clc3erszm0g9ayfnv5sibdjze)
+# HTML5 Series
 - ## [The story of the Internet and HTML🌐](https://razaahmad333.github.io/hashnode-blogs/clc69ngvc0xgnyfnvepso3v5w)
 - ## [How to HTML 🤔](https://razaahmad333.github.io/hashnode-blogs/clc94j80e00xe32nvalu54ifg)
 - ## [Texts, headings and paragraphs in HTML 📜](https://razaahmad333.github.io/hashnode-blogs/clcdeuqai08zeo9nv73rad9lq)
@@ -18,3 +19,6 @@ These are all the blogs in my hashnode profile
 - ## [Links and Navigation in HTML 🤝](https://razaahmad333.github.io/hashnode-blogs/clcq5552t000208jmh4fv3wka)
 - ## [Forms and Input Elements in HTML 📄](https://razaahmad333.github.io/hashnode-blogs/clcun63yv000008l82lxgbd1v)
 - ## [Creating and deploying a portfolio website using HTML 🎉](https://razaahmad333.github.io/hashnode-blogs/cld086kwh000108kueyua3cfn)
+
+# CSS3 Series
+- ## [What, why and How CSS 🤔](https://razaahmad333.github.io/hashnode-blogs/cld4k7yui00nwfunvf77icoj6)
