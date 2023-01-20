@@ -55,11 +55,15 @@ Let's come to the four points I mentioned earlier
 
 ### 1️⃣ HTML5
 
-It is the basic building block of a website. ( You can think of it as bones if you consider the website a human body).  Learn what is it, why it exists and its basic concept, no need to master it
+It is the basic building block of a website. ( You can think of it as bones if you consider the website a human body).  Learn what is it, why it exists and its basic concept, no need to master it.
+
+[Here, I have written a beginner-friendly blog series on HTML5](https://webdessentials.hashnode.dev/series/html5).
 
 ### 2️⃣ CSS3
 
 It is used to style and give a nice appearance to those HTML pages ( You can think of it as flesh, hairs on the human body so that HTML pages don't look like skeletons)
+
+[Here, I have written a beginner-friendly blog series on CSS3](https://webdessentials.hashnode.dev/series/css3).
 
 ### 3️⃣ Javascript
 
@@ -100,4 +104,4 @@ You are not the only person with that problem/doubt. Find it on google, you will
 
 > ⚡ when I’m referencing projects, don't make up your mind for something big like AI, crypto, or machine learning kinds of stuff, let just it be simple in the beginning, it can be a card or quiz app.
 
-I will be posting blogs on this publication "[Webd Essentials](https://webdessentials.hashnode.dev/)", be tuned and learn with.
+I will be posting blogs on this publication "[Webd Essentials](https://webdessentials.hashnode.dev/)", be tuned and learn with me.
