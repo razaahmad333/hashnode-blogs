@@ -1,6 +1,6 @@
 # Making of my first portfolio website
 
-#### How did it started? 🤔
+#### How it started? 🤔
 
 In my first year of college, I was already into coding and programming.  
 I have learned Javascript, React, and HTML. But I wanted to do freelancing.
