@@ -23,3 +23,4 @@ These are all the blogs in my hashnode profile
 # CSS3 Series
 - ## [What, why and How CSS 🤔](https://razaahmad333.github.io/hashnode-blogs/cld4k7yui00nwfunvf77icoj6)
 - ## [Basic CSS Selectors 🪝](https://razaahmad333.github.io/hashnode-blogs/cld9mf84w000409i89xvy4y9e)
+- ## [ Styling texts with CSS 👕](https://razaahmad333.github.io/hashnode-blogs/cldeo15ng00010amoe26o92gy)

@@ -115,11 +115,11 @@ How to use google fonts?
     
 * Copy the `<link>` code and paste it into HTML file
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674747686754/1b4336e6-9ece-45fc-9bfe-fbe51980396c.png align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674747686754/1b4336e6-9ece-45fc-9bfe-fbe51980396c.png)
     
 * And copy the CSS code and paste it wherever you want to apply that font.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674747785129/e9f6a70e-530a-412c-b015-50ad95da61ff.png align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674747785129/e9f6a70e-530a-412c-b015-50ad95da61ff.png)
     
 
 ---
