@@ -9,6 +9,8 @@ These are all the blogs in my hashnode profile
 - ## [Let's use a js package 🎁](https://razaahmad333.github.io/hashnode-blogs/cl7gjxkxo0f241unv95mzgy7k)
 - ## [Open Source & Me](https://razaahmad333.github.io/hashnode-blogs/cl7vk2qw105c6x9nv4bou87jr)
 - ## [The way I learned programming 🧑‍💻](https://razaahmad333.github.io/hashnode-blogs/clc3erszm0g9ayfnv5sibdjze)
+- ## [Clean Code ✨](https://razaahmad333.github.io/hashnode-blogs/clh8x172j000009in0m9i9aqb)
+
 # HTML5 Series
 - ## [The story of the Internet and HTML🌐](https://razaahmad333.github.io/hashnode-blogs/clc69ngvc0xgnyfnvepso3v5w)
 - ## [How to HTML 🤔](https://razaahmad333.github.io/hashnode-blogs/clc94j80e00xe32nvalu54ifg)
