@@ -10,6 +10,7 @@ These are all the blogs in my hashnode profile
 - ## [Open Source & Me](https://razaahmad333.github.io/hashnode-blogs/cl7vk2qw105c6x9nv4bou87jr)
 - ## [The way I learned programming 🧑‍💻](https://razaahmad333.github.io/hashnode-blogs/clc3erszm0g9ayfnv5sibdjze)
 - ## [Clean Code ✨](https://razaahmad333.github.io/hashnode-blogs/clh8x172j000009in0m9i9aqb)
+- ## [Exploring Dash for Web App Development with ChatGPT in My Freelancing Journey 🤖](https://razaahmad333.github.io/hashnode-blogs/clij7ljn7000309l5960r5gmy)
 
 # HTML5 Series
 - ## [The story of the Internet and HTML🌐](https://razaahmad333.github.io/hashnode-blogs/clc69ngvc0xgnyfnvepso3v5w)
