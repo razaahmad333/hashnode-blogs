@@ -58,7 +58,7 @@ As for the user interface, it followed a minimalistic design with three main pag
 
 The live website: [https://cosmic-sherbet-a5c655.netlify.app/](https://cosmic-sherbet-a5c655.netlify.app/) ( it is only mobile responsive )
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689789247802/f2a2e7b9-d12a-4e4f-9b18-f62946281f46.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689789247802/f2a2e7b9-d12a-4e4f-9b18-f62946281f46.png)
 
 To simplify the process, I store all the configuration data in the local storage, eliminating the need for user registration and login.
 
