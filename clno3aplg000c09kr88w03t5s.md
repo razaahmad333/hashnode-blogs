@@ -8,7 +8,7 @@ tags: programming-blogs, javascript, story
 ---
 
 ```javascript
-// Define the main character, Raju
+// Define the character class, Human
 class Human {
   constructor() {
     this.isLazy = true;
