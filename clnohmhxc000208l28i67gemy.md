@@ -1,6 +1,6 @@
 ---
 title: "Building json-server admin dashboard | Day 01"
-datePublished: Fri Oct 13 2023 10:50:31 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Oct 10 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clnohmhxc000208l28i67gemy
 slug: building-json-server-admin-dashboard-day-01
 tags: javascript, web-development, apis, learning, json-server
@@ -10,14 +10,14 @@ tags: javascript, web-development, apis, learning, json-server
 Hey there,  
 I hope you are doing well.
 
-Today is October 11, 2023, and I'm working on a project called "json-server-admin-dashboard." In simple terms, it's a user-friendly admin dashboard for people who are using [json-server](https://github.com/typicode/json-server) or [lowdb](https://github.com/typicode/lowdb) in their learning process of web development and API. This tool helps them easily manage their data without any hassle.
+Today is October 11, 2023, and I'm working on an open-source project called "json-server-admin-dashboard." In simple terms, it's a user-friendly admin dashboard for people who are using [json-server](https://github.com/typicode/json-server) or [lowdb](https://github.com/typicode/lowdb) in their learning process of web development and API. This tool helps them easily manage their data without any hassle.
 
 ### Why do I need it?
 
 if you're diving into **web development** and getting the hang of **integrating APIs** into your web app's frontend using tools like **fetch**, **axios**, or **AJAX** for making **HTTP requests**, you might want some APIs to experiment with.
 
-Well, there's this fantastic tool called json-server that lets you create a mock REST API in a mere 30 seconds, and the best part is, you don't have to write a single line of backend code. All you have do is install the json-server npm package globally and create a JSON file right on your local machine, call it db.json.  
-  
+Well, there's this fantastic tool called json-server that lets you create a mock REST API in a mere 30 seconds, and the best part is, you don't have to write a single line of backend code. All you have do is install the json-server npm package globally and create a JSON file right on your local machine, call it db.json.
+
 Here is a glance at Getting Started from json-server GitHub page.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697191696650/c345c23f-0485-4f44-994b-c0f71d59117f.png align="center")
@@ -38,8 +38,8 @@ You can think of it as a management interface system similar to how MySQL Workbe
 Use these tools and make your learning process smooth and entertaining and easy.  
 Bye.....  
 .  
-.  
-  
+.
+
 Wait,  
 .  
 .  
