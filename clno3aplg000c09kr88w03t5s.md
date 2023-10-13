@@ -1,6 +1,6 @@
 ---
 title: "When a programmer thinks to write a story..."
-datePublished: Fri Oct 13 2023 04:09:26 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Sep 19 2023 06:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clno3aplg000c09kr88w03t5s
 slug: when-a-programmer-thinks-to-write-a-story
 tags: programming-blogs, javascript, story
