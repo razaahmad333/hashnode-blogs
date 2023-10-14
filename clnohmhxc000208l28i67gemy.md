@@ -31,7 +31,7 @@ And you get all these APIs to play with:
 So, in this setup, your database is essentially stored within the db.json file. The project I'm working on "json-server-admin-dashboard," is designed to offer a user-friendly graphical interface for interacting with that data. It lets you perform actions like creating, updating, and deleting data within the database.  
 Here is, how it looks ( in its early age of development ).
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697192818206/7615118c-c404-434f-b1a8-15beacf013df.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697192818206/7615118c-c404-434f-b1a8-15beacf013df.png)
 
 You can think of it as a management interface system similar to how MySQL Workbench is used for MySQL or MongoDB Compass for MongoDB. It's all about simplifying the process of working with your JSON-based database.
 
