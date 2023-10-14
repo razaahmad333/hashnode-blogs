@@ -20,11 +20,11 @@ Well, there's this fantastic tool called json-server that lets you create a mock
 
 Here is a glance at Getting Started from json-server GitHub page.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697191696650/c345c23f-0485-4f44-994b-c0f71d59117f.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697191696650/c345c23f-0485-4f44-994b-c0f71d59117f.png)
 
 And you get all these APIs to play with:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697191925386/0250960b-a66d-4805-aff0-c29beab9f7e2.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697191925386/0250960b-a66d-4805-aff0-c29beab9f7e2.png)
 
 ### When do I need the project you are working on?
 
