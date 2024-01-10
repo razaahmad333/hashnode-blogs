@@ -14,6 +14,7 @@ These are all the blogs in my hashnode profile
 - ## [Creating an Immersive Experience with a Free RestAPI in a Static Website](https://razaahmad333.github.io/hashnode-blogs/clka2h34r000009ld2iuz5zc8)
 - ## [When a programmer thinks to write a story...](https://razaahmad333.github.io/hashnode-blogs/clno3aplg000c09kr88w03t5s)
 - ## [Building json-server admin dashboard | Day 01](https://razaahmad333.github.io/hashnode-blogs/clnohmhxc000208l28i67gemy)
+- ## [Developers, Date APIs and Time zones](https://razaahmad333.github.io/hashnode-blogs/clr7ojvo500000al39z6ob2ju)
 
 # HTML5 Series
 - ## [The story of the Internet and HTML🌐](https://razaahmad333.github.io/hashnode-blogs/clc69ngvc0xgnyfnvepso3v5w)
