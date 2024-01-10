@@ -8,7 +8,7 @@ tags: programming-blogs, javascript, web-development, developer, datetime
 
 ---
 
-Developers use `moment`, `Date` or other Date APIs depending upon their environment. But standard for the dates are provided by ISO to all the paradigms.  
+Developers use `moment`, `Date` or other Date APIs depending upon their environment. But standard for the dates are provided by ISO to all the paradigms.
 
 Recently, I was debugging my next unicorn SaaS (just kidding)  
 I had some data in my MongoDB compass, which I'm writing below as `order` object.
@@ -62,7 +62,7 @@ If you're from India your offset is +5:30, UTC+5:30 or GMT+5:30, and you're time
 
 Below is the map of the world, representing 24 timezone, and you can find city of Greenwich which lies in strip of 0 offset.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704879786362/bb59f222-0d92-4097-bba8-372d5c37eded.jpeg align="center")
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704879786362/bb59f222-0d92-4097-bba8-372d5c37eded.jpeg align="center")](https://nationsgeo.com/time/timezonemap/UTC+6/)
 
 ### Lets code
 
