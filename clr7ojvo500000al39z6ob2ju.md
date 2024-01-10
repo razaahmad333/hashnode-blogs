@@ -46,7 +46,7 @@ Because of a simple reason that, just by looking at our clocks, we can confident
 
 It also makes sense, when you think about the evolution of clocks, **clocks are just tracking the sun in the sky.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704872841619/fe1e39fc-cef8-48e7-976d-514e445da28e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704872841619/fe1e39fc-cef8-48e7-976d-514e445da28e.png)
 
 ( Right one is a sundial, ancestor of mechanical clocks, sundials are shadow clocks invented by ancient Egyptian and Babylonian astronomy around 1500 BC )
 
