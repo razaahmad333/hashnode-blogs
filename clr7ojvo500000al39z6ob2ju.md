@@ -46,7 +46,7 @@ Because of a simple reason that, just by looking at our clocks, we can confident
 
 It also makes sense, when you think about the evolution of clocks, **clocks are just tracking the sun in the sky.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704872841619/fe1e39fc-cef8-48e7-976d-514e445da28e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704872841619/fe1e39fc-cef8-48e7-976d-514e445da28e.png)
 
 ( Right one is a sundial, ancestor of mechanical clocks, sundials are shadow clocks invented by ancient Egyptian and Babylonian astronomy around 1500 BC )
 
@@ -62,7 +62,7 @@ If you're from India your offset is +5:30, UTC+5:30 or GMT+5:30, and you're time
 
 Below is the map of the world, representing 24 timezone, and you can find city of Greenwich which lies in strip of 0 offset.
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704879786362/bb59f222-0d92-4097-bba8-372d5c37eded.jpeg align="center")](https://nationsgeo.com/time/timezonemap/UTC+6/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704879786362/bb59f222-0d92-4097-bba8-372d5c37eded.jpeg)](https://nationsgeo.com/time/timezonemap/UTC+6/)
 
 ### Lets code
 
