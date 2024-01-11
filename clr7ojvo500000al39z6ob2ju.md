@@ -41,12 +41,12 @@ If you've ever wondered, why don't we have a single time and why time zones add 
 
 So here is a good news, we do have a single time and that is **Greenwich Mean Time ( GMT ) also known as Coordinated Universal Time (UTC),** accepted by ISO, and then who are we to reject!
 
-**So, why time zones exists? or why do we different times for different zones around the globe?**  
+**So, why time zones exists? or why do we have different times for different zones around the globe?**  
 Because of a simple reason that, just by looking at our clocks, we can confidently say that the sun is at its peak around 12:00 pm, rises approximately at 6 am, and sets around 5:30 pm during winters.
 
 It also makes sense, when you think about the evolution of clocks, **clocks are just tracking the sun in the sky.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704872841619/fe1e39fc-cef8-48e7-976d-514e445da28e.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704872841619/fe1e39fc-cef8-48e7-976d-514e445da28e.png align="center")
 
 ( Right one is a sundial, ancestor of mechanical clocks, sundials are shadow clocks invented by ancient Egyptian and Babylonian astronomy around 1500 BC )
 
@@ -62,7 +62,7 @@ If you're from India your offset is +5:30, UTC+5:30 or GMT+5:30, and you're time
 
 Below is the map of the world, representing 24 timezone, and you can find city of Greenwich which lies in strip of 0 offset.
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704879786362/bb59f222-0d92-4097-bba8-372d5c37eded.jpeg)](https://nationsgeo.com/time/timezonemap/UTC+6/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704879786362/bb59f222-0d92-4097-bba8-372d5c37eded.jpeg align="center")](https://nationsgeo.com/time/timezonemap/UTC+6/)
 
 ### Lets code
 
